@@ -22,7 +22,7 @@ var (
 )
 
 func main() {
-	i := 10 //this is same as writing var i int = 10, but since we are in a function level, we can use this ":=" as a syntatic sugar
+	i := 10 //this is same as writing var i int = 10, but since we are at function level, we can use this ":=" as a syntatic sugar
 	fmt.Printf("python: Type: %T Value: %v | js: Type: %T Value: %v | golang: Type: %T Value: %v\n", python, python, js, js, golang, golang)
 	fmt.Printf("Type: %T Value: %v\n", i, i)
 	fmt.Printf("Type: %T Value: %v\n", ToBe, ToBe)
