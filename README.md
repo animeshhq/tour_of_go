@@ -11,7 +11,7 @@ this is just my scratchpad while I pick up the language. You’ll find exercises
 1. Install Go: [https://go.dev/dl/](https://go.dev/dl/)  
 2. Clone this repo:  
    ```bash
-   git clone https://github.com/username/tour_of_go.git
+   git clone https://github.com/animeshhq/tour_of_go.git
    cd tour_of_go
 3. run any file using
    ```bash
